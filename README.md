@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[View the Final Project](https://music-ui-pson.netlify.app/)
+
 ## Project Description
 
 The website is static and built for learning and implementing UI design principles. [React Suite](https://rsuitejs.com/) library is used to build the UI components. 
